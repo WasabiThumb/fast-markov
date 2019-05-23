@@ -1,0 +1,24 @@
+{
+  "name": "fast-markov",
+  "version": "1.2.0",
+  "description": "Quick and easy Markov chain generator for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+	"type" : "git",
+	"url" : "https://github.com/WasabiThumb/fast-markov.git"
+  },
+  "keywords": [
+    "text-generation",
+    "text",
+    "markov",
+    "generator",
+    "analyzer",
+    "pattern",
+    "patterns"
+  ],
+  "author": "WasabiThumbs",
+  "license": "ISC"
+}
